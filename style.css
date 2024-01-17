@@ -1,0 +1,21 @@
+body{
+    padding: 18em;
+    margin:5em;
+}
+ .preserve-line-breaks{
+        white-space: pre;
+    }
+    p1{
+        margin-bottom:-10px;
+      text-align: justify;
+}
+        
+        
+        
+    
+
+img{
+    height: 200px;
+    width: 300px;
+}
+
